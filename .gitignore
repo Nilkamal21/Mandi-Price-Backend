@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+env/
+ENV/
+.env/
+.venv/
+
+# Misc
+*.log
+*.sqlite3
+*.db
+
+# Jupyter
+.ipynb_checkpoints
+
+
+# Ignore indexx.html
+indexx.html
